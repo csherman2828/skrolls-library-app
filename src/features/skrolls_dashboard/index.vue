@@ -1,20 +1,16 @@
 <!-- Auto Generated Vue Component -->
 <template>
-  <v-main>
-    <v-container fluid>
-      <router-view/>
-    </v-container>
-  </v-main>
+  <div>
+    Hello World!
+  </div>
 </template>
 
 <script>
   export default {
-    name: 'SkrollsAppMain',
+    name: 'SkrollsDashboard',
     components: {},
     props: {},
-    data() {
-      return {};
-    },
+    data: () => ({}),
     computed: {},
     methods: {},
     watch: {},
@@ -26,6 +22,7 @@
     updated() {},
     beforeDestroy() {},
     destroyed() {},
+    mixins: [],
   };
 </script>
 

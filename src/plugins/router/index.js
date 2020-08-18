@@ -3,13 +3,13 @@ import VueRouter from 'vue-router';
 
 Vue.use(VueRouter);
 
-const Home = { template: '<div>Hello World</div>' };
+import SkrollsDashboard from '@/features/skrolls_dashboard';
 
 const routes = [
   {
     path: '/',
-    name: 'home',
-    component: Home,
+    name: 'skrolls_dashboard',
+    component: SkrollsDashboard,
   },
 ];
 
