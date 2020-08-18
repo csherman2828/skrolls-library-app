@@ -1,13 +1,11 @@
 <!-- Auto Generated Vue Component -->
 <template>
-  <div>
-    Skrolls Dashboard, Coming Soon!
-  </div>
+  <div>Skrolls Catalog, Coming Soon!</div>
 </template>
 
 <script>
   export default {
-    name: 'SkrollsDashboard',
+    name: 'SkrollsCatalog',
     components: {},
     props: {},
     data: () => ({}),
