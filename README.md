@@ -1,4 +1,4 @@
-# vuetify-tests
+# skrolls-library-app
 
 ## Project setup
 ```
